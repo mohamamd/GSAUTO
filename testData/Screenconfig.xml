@@ -1,0 +1,21 @@
+<coordinates>
+<scroll_down x="1358" y="667"/>
+<standby x="1181" y="244"/>
+<open_fullscreen x="988" y="535"/>
+<exit_fullscreen x="1345" y="755"/>
+<Guide x="1081" y="306"/>
+<exit x="1070" y="380"/>
+<down x="1125" y="380"/>
+<menu x="1125" y="286"/>
+<up x="1125" y="318"/>
+<select x="1125" y="348"/>
+<right x="1160" y="349"/>
+<left x="1090" y="347"/>
+<scroll_up x="1358" y="100"/>
+<key_one x="1080" y="607"/>
+<key_two x="1124" y="606"/>
+<ondemand x="1125" y="472"/>
+<AVscreen x="750" y="400"/>
+<chromedriver_Popup x="1346" y="88"/>
+<end></end>
+</coordinates>
