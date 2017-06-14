@@ -123,7 +123,7 @@ class RunRobotFromPython():
 | *Variable* |     *Value*     |
 | ${SiteUrl} | https://glas.charterlab.com/#/
 | ${Username} | P2702231 |
-| ${Password} | Smy$9605512442 |
+| ${Password} | xxxxxxxxxx |
 | ${Browser} | chrome |
 | ${DashboardTitle}	| Lab Glas |
 #below values should not be changed. Please add new variable if some new value is required
